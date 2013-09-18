@@ -29,6 +29,7 @@
     	 margin-left: 300px;
         margin-right: 300px;
         background-color: #fff;
+        line-height: 100%;
         text-wrap:auto;
         font-size: 34px;
         vertical-align: center;
@@ -71,8 +72,11 @@
        
         <p "text-center">We're a bunch of CS guys from UB, working on the website for The Socially Relevant Computing Group</p>
         <br>
-        </div>
 
+
+        </div>
+ <p "text-center">See our work </p> &nbsp &nbsp &nbsp &nbsp  <p "text-center">Meet the team </p>
+       
     </div> <!-- /container -->
 
     <!-- Le javascript

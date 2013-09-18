@@ -22,10 +22,11 @@
     
       .hero-unit {
         margin-top: 100px;
-    	  width: 200%; 
+    	  width: 300%; 
         background-color: #fff;
   height: 200%;
   min-width: 200px;
+  line-height: 100%;
   max-width: 400px;
   padding: 40px;
   margin:auto;
@@ -80,11 +81,11 @@
        
         <p "text-center">We're a bunch of CS guys from UB, working on the website for<br/> The Socially Relevant Computing Group</p>
         <br>
-           <p "text-center"><a href="src.html">See our work </a> &nbsp &nbsp &nbsp &nbsp <a href="team.html">Meet the team </a></p>
+          
  
 
         </div>
-
+         <p "text-center"><a href="src.html">See our work </a> &nbsp &nbsp &nbsp &nbsp <a href="team.html">Meet the team </a></p>
        
     </div>
      <!-- /container -->

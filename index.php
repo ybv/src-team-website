@@ -21,6 +21,7 @@
       }
     
       .hero-unit {
+        padding-top: 100px;
     	  width: 100%; 
   height: 100%;
   min-width: 200px;
@@ -82,9 +83,9 @@
 
        
     </div>
-    <div class="links">
+  
  <p "text-center"><a href="src.html">See our work </a> &nbsp &nbsp &nbsp &nbsp <a href="team.html">Meet the team </a></p>
-     </div><!-- /container -->
+    <!-- /container -->
 
     <!-- Le javascript
     ================================================== -->

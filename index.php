@@ -26,10 +26,11 @@
       }
     
       .hero-unit {
-    	 margin-left: 300px;
-        margin-right: 300px;
-        background-color: #fff;
+    	 margin-left: auto;
+        margin-right: auto;
+        background-color: #eee;
         line-height: 100%;
+        width: 100%;
         text-wrap:auto;
         font-size: 34px;
         vertical-align: center;
@@ -41,7 +42,18 @@
 	.modal-footer{
 		text-align: center;
 	}
-
+  .links{
+     margin-left: auto;
+        margin-right: auto;
+        background-color: #eee;
+        line-height: 100%;
+        width: 100%;
+        text-wrap:auto;
+        font-size: 24px;
+        vertical-align: center;
+        text-align:center;
+        text-justify:inter-word;
+  }
     
     
 
@@ -70,14 +82,17 @@
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
        
-        <p "text-center">We're a bunch of CS guys from UB, working on the website for The Socially Relevant Computing Group</p>
+        <p "text-center">We're a bunch of CS guys from UB, working on the website for<br/> The Socially Relevant Computing Group</p>
         <br>
 
 
         </div>
- <p "text-center">See our work </p> &nbsp &nbsp &nbsp &nbsp  <p "text-center">Meet the team </p>
+
        
-    </div> <!-- /container -->
+    </div>
+    <div class="links">
+ <p "text-center">See our work </p> &nbsp &nbsp &nbsp &nbsp  <p "text-center">Meet the team </p>
+     </div><!-- /container -->
 
     <!-- Le javascript
     ================================================== -->

@@ -32,7 +32,7 @@
         line-height: 100%;
         text-wrap:auto;
         font-size: 34px;
-        position: absolute;
+       
         text-justify:inter-word;
     }
 
@@ -49,8 +49,7 @@
         text-wrap:auto;
         font-size: 24px;
 
-       position: absolute;
-        top: 0; left: 0; bottom: 0; right: 0;   
+       position: absolute;  
         text-justify:inter-word;
   }
     

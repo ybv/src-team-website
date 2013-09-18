@@ -22,12 +22,14 @@
     
       .hero-unit {
         padding-top: 100px;
-    	  width: 100%; 
+    	  width: 200%; 
+        background-color: #fff;
   height: 100%;
   min-width: 200px;
   max-width: 400px;
   padding: 40px;
   margin:auto;
+  font-size: 34px;
    text-justify:inter-word;
     }
 
@@ -37,8 +39,9 @@
 	}
   .links{
     margin:auto;
-     width: 100%; 
+     width: 200%; 
   height: 100%;
+  font-size: 24px;
   min-width: 200px;
   max-width: 400px;
   padding: 40px;

@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Business School Diaries</title>
+    <title>SRC</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -30,7 +30,7 @@
         margin-right: 400px;
         background-color: #fff;
         text-wrap:auto;
-        font-size: 30 px;
+        font-size: 34px;
         vertical-align: center;
         text-align:center;
         text-justify:inter-word;
@@ -69,7 +69,7 @@
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
        
-        <p "text-center">We're a bunch of CS guys from UB, working on the website for  <br> The Socially Relevant Computing Group</p>
+        <p "text-center">We're a bunch of CS guys from UB, working on the website for The Socially Relevant Computing Group</p>
         <br>
         </div>
 

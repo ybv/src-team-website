@@ -21,11 +21,12 @@
       }
     
       .hero-unit {
-    	  width: 60%; 
-  height: 60%;
+    	  width: 100%; 
+  height: 100%;
   min-width: 200px;
   max-width: 400px;
   padding: 40px;
+  margin:auto;
    text-justify:inter-word;
     }
 
@@ -34,12 +35,16 @@
 		text-align: center;
 	}
   .links{
-     width: 60%; 
-  height: 60%;
+    margin:auto;
+     width: 100%; 
+  height: 100%;
   min-width: 200px;
   max-width: 400px;
   padding: 40px;
        
+  }
+  .block{
+    text-align: center;
   }
     
     

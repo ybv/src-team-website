@@ -77,15 +77,15 @@
        
         <p "text-center">We're a bunch of CS guys from UB, working on the website for<br/> The Socially Relevant Computing Group</p>
         <br>
-
+           <p "text-center"><a href="src.html">See our work </a> &nbsp &nbsp &nbsp &nbsp <a href="team.html">Meet the team </a></p>
+ 
 
         </div>
 
        
     </div>
-  
- <p "text-center"><a href="src.html">See our work </a> &nbsp &nbsp &nbsp &nbsp <a href="team.html">Meet the team </a></p>
-    <!-- /container -->
+     <!-- /container -->
+
 
     <!-- Le javascript
     ================================================== -->

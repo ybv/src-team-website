@@ -30,11 +30,9 @@
         margin-right: auto;
         background-color: #eee;
         line-height: 100%;
-        width: 100%;
         text-wrap:auto;
         font-size: 34px;
         position: absolute;
-        top: 0; left: 0; bottom: 0; right: 0;
         text-justify:inter-word;
     }
 

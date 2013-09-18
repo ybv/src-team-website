@@ -20,16 +20,11 @@
         padding-top: 80px;
         vertical-align: center;
         padding-bottom: -10px;
-        font-family: HelveticaNeue-Light;
+        font-family: HelveticaNeue-UltraLight;
       
 
       }
-      .header {
-      	font-family: Trojan;
-      	font-size: 40px;
-      	text-align: center;
-
-      }
+    
       .hero-unit {
     	 margin-left: 400px;
         margin-right: 400px;
@@ -44,7 +39,7 @@
    -webkit-border-color: #eee;
    -moz-border-radius: 20px;
   	border-radius: 20px;
-  	font-size: 16px;
+  	font-size: 30px;
   	font-family: HelveticaNeue-UltraLight;
    	color: #000;
     padding: 10px 10px;
@@ -84,7 +79,7 @@
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
        
-        <p "text-center">We're a bunch of CS guys from UB working on the website for <br> The Socially Relevant Computing Group</p>
+        <p "text-center">We're a bunch of CS guys from UB working on  <br> the website for The Socially Relevant Computing Group</p>
         <br>
         </div>
 

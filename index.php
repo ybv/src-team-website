@@ -30,23 +30,13 @@
         margin-right: 400px;
         background-color: #fff;
         text-wrap:auto;
+        font-size: 30 px;
         vertical-align: center;
         text-align:center;
         text-justify:inter-word;
     }
 
-    .btn {
-   -webkit-border-color: #eee;
-   -moz-border-radius: 20px;
-  	border-radius: 20px;
-  	font-size: 30px;
-  	font-family: HelveticaNeue-UltraLight;
-   	color: #000;
-    padding: 10px 10px;
-    background: #fff;
-    border-color: #000;
-    
-	}
+   
 	.modal-footer{
 		text-align: center;
 	}
@@ -79,7 +69,7 @@
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
        
-        <p "text-center">We're a bunch of CS guys from UB working on  <br> the website for The Socially Relevant Computing Group</p>
+        <p "text-center">We're a bunch of CS guys from UB, working on the website for  <br> The Socially Relevant Computing Group</p>
         <br>
         </div>
 

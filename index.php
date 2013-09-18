@@ -33,8 +33,8 @@
         width: 100%;
         text-wrap:auto;
         font-size: 34px;
-        vertical-align: center;
-        text-align:center;
+        position: absolute;
+        top: 0; left: 0; bottom: 0; right: 0;
         text-justify:inter-word;
     }
 
@@ -45,13 +45,14 @@
   .links{
      margin-left: auto;
         margin-right: auto;
-        background-color: #eee;
+        background-color: #fff;
         line-height: 100%;
         width: 100%;
         text-wrap:auto;
         font-size: 24px;
-        vertical-align: center;
-        text-align:center;
+
+       position: absolute;
+        top: 0; left: 0; bottom: 0; right: 0;   
         text-justify:inter-word;
   }
     
@@ -91,7 +92,7 @@
        
     </div>
     <div class="links">
- <p "text-center">See our work </p> &nbsp &nbsp &nbsp &nbsp  <p "text-center">Meet the team </p>
+ <p "text-center"><a href="src.html">See our work </a> &nbsp &nbsp &nbsp &nbsp <a href="team.html">Meet the team </a></p>
      </div><!-- /container -->
 
     <!-- Le javascript

@@ -26,8 +26,8 @@
       }
     
       .hero-unit {
-    	 margin-left: 400px;
-        margin-right: 400px;
+    	 margin-left: 300px;
+        margin-right: 300px;
         background-color: #fff;
         text-wrap:auto;
         font-size: 34px;

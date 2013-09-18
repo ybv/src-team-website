@@ -15,25 +15,18 @@
     <style type="text/css">
       body {
       	background-color: #fff;
-      
-      	background-size: 1440px 800px;
-        padding-top: 80px;
-        vertical-align: center;
-        padding-bottom: -10px;
         font-family: HelveticaNeue-UltraLight;
       
 
       }
     
       .hero-unit {
-    	 margin-left: auto;
-        margin-right: auto;
-        background-color: #eee;
-        line-height: 100%;
-        text-wrap:auto;
-        font-size: 34px;
-       
-        text-justify:inter-word;
+    	  width: 60%; 
+  height: 60%;
+  min-width: 200px;
+  max-width: 400px;
+  padding: 40px;
+   text-justify:inter-word;
     }
 
    
@@ -41,16 +34,12 @@
 		text-align: center;
 	}
   .links{
-     margin-left: auto;
-        margin-right: auto;
-        background-color: #fff;
-        line-height: 100%;
-        width: 100%;
-        text-wrap:auto;
-        font-size: 24px;
-
-       position: absolute;  
-        text-justify:inter-word;
+     width: 60%; 
+  height: 60%;
+  min-width: 200px;
+  max-width: 400px;
+  padding: 40px;
+       
   }
     
     

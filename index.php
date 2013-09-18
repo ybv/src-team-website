@@ -21,10 +21,10 @@
       }
     
       .hero-unit {
-        padding-top: 100px;
+        margin-top: 100px;
     	  width: 200%; 
         background-color: #fff;
-  height: 100%;
+  height: 200%;
   min-width: 200px;
   max-width: 400px;
   padding: 40px;
@@ -40,8 +40,8 @@
   .links{
     margin:auto;
      width: 200%; 
-  height: 100%;
-  font-size: 24px;
+  height: 200%;
+  font-size: 20px;
   min-width: 200px;
   max-width: 400px;
   padding: 40px;

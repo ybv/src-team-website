@@ -14,6 +14,7 @@
    
     <style type="text/css">
       body {
+         margin-top: 100px;
       	background-color: #fff;
         font-family: HelveticaNeue-UltraLight;
       
@@ -21,7 +22,7 @@
       }
     
       .hero-unit {
-        margin-top: 100px;
+       
     	  width: 300%; 
         background-color: #fff;
   height: 200%;

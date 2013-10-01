@@ -86,7 +86,7 @@
  
 
         </div>
-         <p "text-center"><a href="src.html">See our work </a> &nbsp &nbsp &nbsp &nbsp <a href="team.html">Meet the team </a></p>
+        <p "text-center"><a href="abt.html">About </a> &nbsp &nbsp &nbsp &nbsp <p "text-center"><a href="src.html">See our work </a> &nbsp &nbsp &nbsp &nbsp <a href="team.html">Meet the team </a></p>
        
     </div>
      <!-- /container -->

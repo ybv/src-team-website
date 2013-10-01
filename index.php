@@ -75,7 +75,7 @@
 
    
 
-    <div class="block">
+   
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
@@ -88,7 +88,7 @@
         </div>
         <p "text-center"><a href="abt.html">About </a> &nbsp  <p "text-center"><a href="src.html">See our work </a>  &nbsp <a href="team.html">Meet the team </a></p>
        
-    </div>
+ 
      <!-- /container -->
 
 

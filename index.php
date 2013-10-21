@@ -52,10 +52,6 @@
  </style>
 
 
-      <link rel="shortcut icon" href="images/favicon.ico">
-      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
     </head>
 
     <body>
@@ -71,7 +67,7 @@
    
 
           </div>
-          <p "text-center"><a href="abt.html">About </a> &nbsp  <p "text-center"><a href="src.html">See our work </a>  &nbsp <a href="team.html">Meet the team </a></p>
+          <p "text-center"><a href="p1.html">Phase 1 </a> <br/><p "text-center"><a href="src.html">See our work </a>  &nbsp <a href="team.html">Meet the team </a></p>
          
       </div>
       <!-- Placed at the end of the document so the pages load faster -->

@@ -68,7 +68,11 @@
 
           </div>
           <p "text-center"><a href="p1.html">Phase 1 </a>  <a href="p2.html">Phase 2 </a> <br/><p "text-center"><a href="src.html">See our work </a>  &nbsp <a href="team.html">Meet the team </a></p>
+<<<<<<< HEAD
+  <!-- test comment -->       
+=======
          
+>>>>>>> eb0afe09b2e434f923b7d7ec3358411efe76c838
       </div>
       <!-- Placed at the end of the document so the pages load faster -->
       <script src="js/jquery.js"></script>
